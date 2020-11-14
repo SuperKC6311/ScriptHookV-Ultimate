@@ -1,0 +1,78 @@
+// GTA V SCRIPT HOOK (build Sep 12 2020, v1.0.2060.1)
+//     (C) Alexander Blade 2015-2020
+[14:05:33] INIT: Started
+[14:05:33] INIT: Success, game version is VER_1_0_2060_1_NOSTEAM
+[14:05:34] INIT: Registering script 'Menyoo.asi' (0x00007FFAF1E09EF0)
+[14:05:34] INIT: Registering additional script thread 'Menyoo.asi' (0x00007FFAF1E1A3A0)
+[14:05:34] INIT: Registering script 'Rampage.asi' (0x00007FFAF1794280)
+[14:05:34] INIT: Registering additional script thread 'Rampage.asi' (0x00007FFAF1794490)
+[14:05:34] INIT: Registering additional script thread 'Rampage.asi' (0x00007FFAF17945B0)
+[14:05:34] INIT: Registering additional script thread 'Rampage.asi' (0x00007FFAF17945F0)
+[14:06:44] INIT: Pool 1 extended
+[14:06:44] INIT: Pool 2 extended
+[14:06:44] INIT: Pool 3 extended
+[14:06:44] INIT: Pool 4 extended
+[14:06:50] INIT: GtaThread collection size 189
+[14:06:50] INIT: wnd proc 0x00000000FFFF0F81
+[14:06:50] INIT: IDXGISwapChain 0x00007FFB7929B438 (0x00007FFB79204F80)
+[14:06:50] INIT: IDXGISwapChain set
+[14:06:50] INIT: DX init started
+[14:06:50] INIT: DX feature level B000
+[14:06:50] INIT: DX init succeeded
+[14:07:38] CORE: Requesting thread creation
+[14:07:38] CORE: Creating threads
+[14:07:40] CORE: Started control thread, id 32 active 1
+[14:07:40] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E09EF0), id 33 active 1
+[14:07:40] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 34 active 1
+[14:07:40] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794280), id 35 active 1
+[14:07:40] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794490), id 36 active 1
+[14:07:40] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945B0), id 37 active 1
+[14:07:40] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945F0), id 38 active 1
+[14:07:40] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E09EF0), id 33
+[14:07:40] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 34
+[14:07:40] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794280), id 35
+[14:07:40] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Base.png', id 0
+[14:07:40] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Needle.png', id 1
+[14:07:40] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794490), id 36
+[14:07:40] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945B0), id 37
+[14:07:40] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945F0), id 38
+[17:34:17] CORE: Cleaning threads
+[17:34:17] CORE: Creating threads
+[17:34:17] CORE: Cleaning texture, id 0
+[17:34:17] CORE: Cleaning texture, id 1
+[17:34:19] CORE: Started control thread, id 329 active 1
+[17:34:19] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E09EF0), id 330 active 1
+[17:34:19] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 331 active 1
+[17:34:19] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794280), id 332 active 1
+[17:34:19] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794490), id 333 active 1
+[17:34:19] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945B0), id 334 active 1
+[17:34:19] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945F0), id 335 active 1
+[17:34:19] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E09EF0), id 330
+[17:34:19] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 331
+[17:34:19] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794280), id 332
+[17:34:20] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Base.png', id 2
+[17:34:20] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Needle.png', id 3
+[17:34:20] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794490), id 333
+[17:34:20] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945B0), id 334
+[17:34:20] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945F0), id 335
+[17:46:47] CORE: Cleaning threads
+[17:46:47] CORE: Creating threads
+[17:46:47] CORE: Cleaning texture, id 2
+[17:46:47] CORE: Cleaning texture, id 3
+[17:46:49] CORE: Started control thread, id 427 active 1
+[17:46:49] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E09EF0), id 428 active 1
+[17:46:49] CORE: Started thread 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 429 active 1
+[17:46:49] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794280), id 430 active 1
+[17:46:49] CORE: Started thread 'Rampage.asi' (0x00007FFAF1794490), id 431 active 1
+[17:46:49] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945B0), id 432 active 1
+[17:46:49] CORE: Started thread 'Rampage.asi' (0x00007FFAF17945F0), id 433 active 1
+[17:46:49] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E09EF0), id 428
+[17:46:49] CORE: Launching main() for 'Menyoo.asi' (0x00007FFAF1E1A3A0), id 429
+[17:46:49] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794280), id 430
+[17:46:50] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Base.png', id 4
+[17:46:50] CORE: Creating texture '.\RampageFiles\Textures\Speedo\Needle.png', id 5
+[17:46:50] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF1794490), id 431
+[17:46:50] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945B0), id 432
+[17:46:50] CORE: Launching main() for 'Rampage.asi' (0x00007FFAF17945F0), id 433
+[17:56:32] UNINIT: Unregistering script 'Rampage.asi'
+[17:56:32] UNINIT: Unregistering script 'Menyoo.asi'
